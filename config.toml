@@ -11,17 +11,18 @@ enableGitInfo = false
 address = "Singapore"
 email = "support@foosn.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
+firstName = "Foosn"
+lastName = "PTE Ltd."
+phone = "+65 9171 1210"
 profileImage = "img/TechChat.png"
-showEducation = true
-showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
-showQr = true
-showSkills = true
+showEducation = false
+showExperience = false
+showSoftware = true
+showProducts = true
+showPublications = false
+showQr = false
+showSkills = false
+showContact = true
 
 [params.google]
 
