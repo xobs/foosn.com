@@ -1,0 +1,1 @@
+The theme is [hugo-resume](https://github.com/eddiewebb/hugo-resume/).
